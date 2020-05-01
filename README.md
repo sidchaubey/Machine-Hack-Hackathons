@@ -22,15 +22,12 @@ Sample Submission – Sample format for the submission.
 Below are the file formats for the provided data
 Train.csv
 
-<img src="https://www.machinehack.com/wp-content/uploads/2020/04/Screenshot-2020-04-28-at-4.29.36-PM.png",alt="Image Not Found">
 
 Test.csv
 
-<img src="https://www.machinehack.com/wp-content/uploads/2020/04/Screenshot-2020-04-28-at-4.29.56-PM.png",alt="Image Not Found">
 
 Sample_Submission.xlsx
 
-<img src="https://www.machinehack.com/wp-content/uploads/2020/04/Screenshot-2020-04-28-at-4.31.04-PM.png",alt="Image Not Found">
 
 Result:
 The model I made using Decision Trees gave me an accuracy of round about 83% and the metric used was F1 score.
